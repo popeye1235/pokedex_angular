@@ -1,0 +1,9 @@
+INSTRUCTIONS
+
+1. Open this folder after extraction
+2. please open instruction.txt
+3. Open cmd in this folder
+4. Install angular 8.0.1
+5. Install Node Package Manager(npm install)
+6. Install dependencies (npm install ngx-pagination --save)
+7. Run this project in chrome browser http://localhost:4200/
